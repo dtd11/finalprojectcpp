@@ -1,0 +1,5 @@
+/home/asdf/openai-cpp/build/CMakeFiles/edit_cache.dir
+/home/asdf/openai-cpp/build/CMakeFiles/rebuild_cache.dir
+/home/asdf/openai-cpp/build/examples/CMakeFiles/moviepj.dir
+/home/asdf/openai-cpp/build/examples/CMakeFiles/edit_cache.dir
+/home/asdf/openai-cpp/build/examples/CMakeFiles/rebuild_cache.dir

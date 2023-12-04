@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/moviepj.dir/moviepj.cpp.o -o moviepj  -lcurl 

@@ -1,0 +1,350 @@
+2022-01-01, The Dark Knight, Action, 5, 0
+2022-01-02, Die Hard, Action, 5, 0
+2022-01-03, Mad Max: Fury Road, Action, 5, 0
+2022-01-04, The Matrix, Action, 5, 0
+2022-01-05, Kill Bill: Volume 1, Action, 5, 0
+2022-01-06, John Wick, Action, 5, 0
+2022-01-07, Inception, Action, 5, 0
+2022-01-08, Terminator 2: Judgment Day, Action, 5, 0
+2022-01-09, Gladiator, Action, 5, 0
+2022-01-10, Braveheart, Action, 5, 0
+2022-01-11, Lethal Weapon, Action, 5, 0
+2022-01-12, The Bourne Identity, Action, 5, 0
+2022-01-13, 300, Action, 5, 0
+2022-01-14, The Raid: Redemption, Action, 5, 0
+2022-01-15, Crouching Tiger, Action, 5, 0
+2022-01-16, The Avengers, Action, 5, 0
+2022-01-17, The Equalizer, Action, 5, 0
+2022-01-18, Speed, Action, 5, 0
+2022-01-19, The Rock, Action, 5, 0
+2022-01-20, The Transporter, Action, 5, 0
+2022-01-21, Kill Bill: Volume 2, Action, 5, 0
+2022-01-22, Atomic Blonde, Action, 5, 0
+2022-01-23, The Fifth Element, Action, 5, 0
+2022-01-24, Rambo: First Blood, Action, 5, 0
+2022-01-25, Oldboy, Action, 5, 0
+2022-01-26,  The Shawshank Redemption, Drama, 4, 1
+2022-01-27,  The Godfather, Drama, 4, 1
+2022-01-28,  Schindler's List, Drama, 4, 1
+2022-01-29,  Forrest Gump, Drama, 4, 1
+2022-01-30,  The Pianist, Drama, 4, 1
+2022-01-31,  The Social Network, Drama, 4, 1
+2022-02-01,  American Beauty, Drama, 4, 1
+2022-02-02,  The Departed, Drama, 4, 1
+2022-02-03,  A Beautiful Mind, Drama, 4, 1
+2022-02-04,  La La Land, Drama, 4, 1
+2022-02-05,  The Revenant, Drama, 4, 1
+2022-02-06,  The Great Gatsby, Drama, 4, 1
+2022-02-07,  Rain Man, Drama, 4, 1
+2022-02-08,  The Pursuit of Happyness, Drama, 4, 1
+2022-02-09,  Hidden Dragon, Drama, 4, 1
+2022-02-10,  The Green Mile, Drama, 4, 1
+2022-02-11,  The King's Speech, Drama, 4, 1
+2022-02-12,  Dead Poets Society, Drama, 4, 1
+2022-02-13,  12 Angry Men, Drama, 4, 1
+2022-02-14,  Boyhood, Drama, 4, 1
+2022-02-15,  Atonement, Drama, 4, 1
+2022-02-16,  The Silence of the Lambs, Drama, 4, 1
+2022-02-17,  Million Dollar Baby, Drama, 4, 1
+2022-02-18,  A Streetcar Named Desire, Drama, 4, 1
+2022-02-19,  Birdman, Drama, 4, 1
+2022-02-20,  Airplane!, Comedy, 3, 2
+2022-02-21,  Monty Python and the Holy Grail, Comedy, 3, 2
+2022-02-22,  Anchorman: The Legend of Ron Burgundy, Comedy, 3, 2
+2022-02-23,  The Grand Budapest Hotel, Comedy, 3, 2
+2022-02-24,  Superbad, Comedy, 3, 2
+2022-02-25,  Ferris Bueller's Day Off, Comedy, 3, 2
+2022-02-26,  Bridesmaids, Comedy, 3, 2
+2022-02-27,  The Hangover, Comedy, 3, 2
+2022-02-28,  Dumb and Dumber, Comedy, 3, 2
+2022-03-01,  Groundhog Day, Comedy, 3, 2
+2022-03-02,  Shaun of the Dead, Comedy, 3, 2
+2022-03-03,  Napoleon Dynamite, Comedy, 3, 2
+2022-03-04,  The Princess Bride, Comedy, 3, 2
+2022-03-05,  Ghostbusters, Comedy, 3, 2
+2022-03-06,  Good Will Hunting, Comedy, 3, 2
+2022-03-07,  Mean Girls, Comedy, 3, 2
+2022-03-08,  Caddyshack, Comedy, 3, 2
+2022-03-09,  21 Jump Street, Comedy, 3, 2
+2022-03-10,  The Big Lebowski, Comedy, 3, 2
+2022-03-11,  Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan, Comedy, 3, 2
+2022-03-12,  Ted, Comedy, 3, 2
+2022-03-13,  The 40-Year-Old Virgin, Comedy, 3, 2
+2022-03-14,  Tropic Thunder, Comedy, 3, 2
+2022-03-15,  Hot Fuzz, Comedy, 3, 2
+2022-03-16,  The Producers, Comedy, 3, 2
+2022-03-17,  Titanic, Romance, 2, 3
+2022-03-18,  The Notebook, Romance, 2, 3
+2022-03-19,  Pride and Prejudice, Romance, 2, 3
+2022-03-20,  Before Sunrise, Romance, 2, 3
+2022-03-21,  Eternal Sunshine of the Spotless Mind, Romance, 2, 3
+2022-03-22,  La La Land, Romance, 2, 3
+2022-03-23,  500 Days of Summer, Romance, 2, 3
+2022-03-24,  Casablanca, Romance, 2, 3
+2022-03-25,  Amélie, Romance, 2, 3
+2022-03-26,  Romeo + Juliet, Romance, 2, 3
+2022-03-27,  When Harry Met Sally..., Romance, 2, 3
+2022-03-28,  Pretty Woman, Romance, 2, 3
+2022-03-29,  Silver Linings Playbook, Romance, 2, 3
+2022-03-30,  The Princess Bride, Romance, 2, 3
+2022-03-31,  This Is Spinal Tap, Romance, 2, 3
+2022-04-01,  Brokeback Mountain, Romance, 2, 3
+2022-04-02,  Atonement, Romance, 2, 3
+2022-04-03,  Moonstruck, Romance, 2, 3
+2022-04-04,  The Shape of Water, Romance, 2, 3
+2022-04-05,  The Fault in Our Stars, Romance, 2, 3
+2022-04-06,  10 Things I Hate About You, Romance, 2, 3
+2022-04-07,  The Time Traveler's Wife, Romance, 2, 3
+2022-04-08,  Her, Romance, 2, 3
+2022-04-09,  Notting Hill, Thriller, 2, 4
+2022-04-10,  About Time, Thriller, 2, 4
+2022-04-11,  Se7en, Thriller, 2, 4
+2022-04-12,  The Silence of the Lambs, Thriller, 2, 4
+2022-04-13,  Gone Girl, Thriller, 2, 4
+2022-04-14,  Memento, Thriller, 2, 4
+2022-04-15,  Psycho, Thriller, 2, 4
+2022-04-16,  The Sixth Sense, Thriller, 2, 4
+2022-04-17,  Zodiac, Thriller, 2, 4
+2022-04-18,  Prisoners, Thriller, 2, 4
+2022-04-19,  The Usual Suspects, Thriller, 2, 4
+2022-04-20,  Seven Samurai, Thriller, 2, 4
+2022-04-21,  Shutter Island, Thriller, 2, 4
+2022-04-22,  Rear Window, Thriller, 2, 4
+2022-04-23,  The Girl with the Dragon Tattoo, Thriller, 2, 4
+2022-04-24,  Mystic River, Thriller, 2, 4
+2022-04-25,  Sense and Sensibility, Thriller, 2, 4
+2022-04-26,  Heat, Thriller, 2, 4
+2022-04-27,  The Departed, Thriller, 2, 4
+2022-04-28,  No Country for Old Men, Thriller, 2, 4
+2022-04-29,  The Others, Thriller, 2, 4
+2022-04-30,  The Prestige, Thriller, 2, 4
+2022-05-01,  Vertigo, Thriller, 2, 4
+2022-05-02,  Nightcrawler, Thriller, 2, 4
+2022-05-03,  The Shining, Thriller, 2, 4
+2022-05-04,  Oldboy, Thriller, 2, 4
+2022-05-05,  Primal Fear, Thriller, 2, 4
+2022-05-06,  The Lion King, Family, 1, 5
+2022-05-07,  Toy Story, Family, 1, 5
+2022-05-08,  Finding Nemo, Family, 1, 5
+2022-05-09,  Harry Potter and the Sorcerer's Stone, Family, 1, 5
+2022-05-10,  E.T. the Extra-Terrestrial, Family, 1, 5
+2022-05-11,  The Incredibles, Family, 1, 5
+2022-05-12,  Shrek, Family, 1, 5
+2022-05-13,  Frozen, Family, 1, 5
+2022-05-14,  The Princess Bride, Family, 1, 5
+2022-05-15,  Paddington, Family, 1, 5
+2022-05-16,  Beauty and the Beast, Family, 1, 5
+2022-05-17,  Home Alone, Family, 1, 5
+2022-05-18,  The Jungle Book, Family, 1, 5
+2022-05-19,  Willy Wonka & the Chocolate Factory, Family, 1, 5
+2022-05-20,  Star Trek, Family, 1, 5
+2022-05-21,  Aladdin, Family, 1, 5
+2022-05-22,  The Sound of Music, Family, 1, 5
+2022-05-23,  Up, Family, 1, 5
+2022-05-24,  The Little Mermaid, Family, 1, 5
+2022-05-25,  Ratatouille, Family, 1, 5
+2022-05-26,  Mary Poppins, Family, 1, 5
+2022-05-27,  Despicable Me, Family, 1, 5
+2022-05-28,  The Karate Kid, Family, 1, 5
+2022-05-29,  Babe, Family, 1, 5
+2022-05-30,  The Wizard of Oz, Family, 1, 5
+2022-05-31,  Spirited Away, Animation, 1, 6
+2022-06-01,  Toy Story, Animation, 1, 6
+2022-06-02,  Finding Nemo, Animation, 1, 6
+2022-06-03,  The Lion King, Animation, 1, 6
+2022-06-04,  WALL-E, Animation, 1, 6
+2022-06-05,  My Neighbor Totoro, Animation, 1, 6
+2022-06-06,  Up, Animation, 1, 6
+2022-06-07,  Coco, Animation, 1, 6
+2022-06-08,  Zootopia, Animation, 1, 6
+2022-06-09,  Inside Out, Animation, 1, 6
+2022-06-10,  How to Train Your Dragon, Animation, 1, 6
+2022-06-11,  Shrek, Animation, 1, 6
+2022-06-12,  Ratatouille, Animation, 1, 6
+2022-06-13,  Princess Mononoke, Animation, 1, 6
+2022-06-14,  Moana, Animation, 1, 6
+2022-06-15,  The Nightmare Before Christmas, Animation, 1, 6
+2022-06-16,  Beauty and the Beast, Animation, 1, 6
+2022-06-17,  The Incredibles, Animation, 1, 6
+2022-06-18,  Moana, Animation, 1, 6
+2022-06-19,  Frozen, Animation, 1, 6
+2022-06-20,  The Little Mermaid, Animation, 1, 6
+2022-06-21,  Aladdin, Animation, 1, 6
+2022-06-22,  The Iron Giant, Animation, 1, 6
+2022-06-23,  Mulan, Animation, 1, 6
+2022-06-24,  Spirited Away, Animation, 1, 6
+2022-06-25,  The Lord of the Rings: The Fellowship of the Ring, Fantasy, 1, 7
+2022-06-26,  Harry Potter and the Sorcerer's Stone, Fantasy, 1, 7
+2022-06-27,  The Chronicles of Narnia: The Lion, Fantasy, 1, 7
+2022-06-28,  Pan's Labyrinth, Fantasy, 1, 7
+2022-06-29,  The Princess Bride, Fantasy, 1, 7
+2022-06-30,  Stardust, Fantasy, 1, 7
+2022-07-01,  The NeverEnding Story, Fantasy, 1, 7
+2022-07-02,  The Shape of Water, Fantasy, 1, 7
+2022-07-03,  The Wizard of Oz, Fantasy, 1, 7
+2022-07-04,  Alice in Wonderland, Fantasy, 1, 7
+2022-07-05,  The Lord of the Rings: The Two Towers, Fantasy, 1, 7
+2022-07-06,  The Lord of the Rings: The Return of the King, Fantasy, 1, 7
+2022-07-07,  The Hobbit: An Unexpected Journey, Fantasy, 1, 7
+2022-07-08,  The Hobbit: The Desolation of Smaug, Fantasy, 1, 7
+2022-07-09,  Kung Fu Panda, Fantasy, 1, 7
+2022-07-10,  The Golden Compass, Fantasy, 1, 7
+2022-07-11,  Labyrinth, Fantasy, 1, 7
+2022-07-12,  Willow, Fantasy, 1, 7
+2022-07-13,  The Secret Garden, Fantasy, 1, 7
+2022-07-14,  The Dark Crystal, Fantasy, 1, 7
+2022-07-15,  The NeverEnding Story II: The Next Chapter, Fantasy, 1, 7
+2022-07-16,  Coraline, Fantasy, 1, 7
+2022-07-17,  The Chronicles of Narnia: Prince Caspian, Fantasy, 1, 7
+2022-07-18,  Alice Through the Looking Glass, Fantasy, 1, 7
+2022-07-19,  The BFG, Fantasy, 1, 7
+2022-07-20,  2001: A Space Odyssey, Science Fantasy, 0, 8
+2022-07-21,  Blade Runner, Science Fantasy, 0, 8
+2022-07-22,  the Witch and the Wardrobe, Science Fantasy, 0, 8
+2022-07-23,  The Terminator, Science Fantasy, 0, 8
+2022-07-24,  The Matrix, Science Fantasy, 0, 8
+2022-07-25,  Interstellar, Science Fantasy, 0, 8
+2022-07-26,  The Day the Earth Stood Still, Science Fantasy, 0, 8
+2022-07-27,  Star Wars: Episode IV - A New Hope, Science Fantasy, 0, 8
+2022-07-28,  Inception, Science Fantasy, 0, 8
+2022-07-29,  Jurassic Park, Science Fantasy, 0, 8
+2022-07-30,  Avatar, Science Fantasy, 0, 8
+2022-07-31,  Back to the Future, Science Fantasy, 0, 8
+2022-08-01,  The War of the Worlds, Science Fantasy, 0, 8
+2022-08-02,  The Fifth Element, Science Fantasy, 0, 8
+2022-08-03,  The Hobbit: The Battle of the Five Armies, Science Fantasy, 0, 8
+2022-08-04,  Gravity, Science Fantasy, 0, 8
+2022-08-05,  The Martian, Science Fantasy, 0, 8
+2022-08-06,  The Minority Report, Science Fantasy, 0, 8
+2022-08-07,  District 9, Science Fantasy, 0, 8
+2022-08-08,  The Andromeda Strain, Science Fantasy, 0, 8
+2022-08-09,  A.I. Artificial Intelligence, Science Fantasy, 0, 8
+2022-08-10,  Ex Machina, Science Fantasy, 0, 8
+2022-08-11,  The Fly, Science Fantasy, 0, 8
+2022-08-12,  Children of Men, Science Fantasy, 0, 8
+2022-08-13,  Donnie Darko, Science Fantasy, 0, 8
+2022-08-14,  The Exorcist, Horror, 0, 9
+2022-08-15,  Psycho, Horror, 0, 9
+2022-08-16,  E.T. the Extra-Terrestrial, Horror, 0, 9
+2022-08-17,  Get Out, Horror, 0, 9
+2022-08-18,  A Nightmare on Elm Street, Horror, 0, 9
+2022-08-19,  Halloween, Horror, 0, 9
+2022-08-20,  It, Horror, 0, 9
+2022-08-21,  The Conjuring, Horror, 0, 9
+2022-08-22,  Paranormal Activity, Horror, 0, 9
+2022-08-23,  The Babadook, Horror, 0, 9
+2022-08-24,  Poltergeist, Horror, 0, 9
+2022-08-25,  Jaws, Horror, 0, 9
+2022-08-26,  The Ring, Horror, 0, 9
+2022-08-27,  Hereditary, Horror, 0, 9
+2022-08-28,  Star Trek, Horror, 0, 9
+2022-08-29,  The Sixth Sense, Horror, 0, 9
+2022-08-30,  The Silence of the Lambs, Horror, 0, 9
+2022-08-31,  Don't Breathe, Horror, 0, 9
+2022-09-01,  The Blair Witch Project, Horror, 0, 9
+2022-09-02,  The Others, Horror, 0, 9
+2022-09-03,  A Quiet Place, Horror, 0, 9
+2022-09-04,  Insidious, Horror, 0, 9
+2022-09-05,  Sinister, Horror, 0, 9
+2022-09-06,  Annabelle: Creation, Horror, 0, 9
+2022-09-07,  The Cabin in the Woods, Horror, 0, 9
+2022-09-08,  The Godfather, Crime, 0, 10
+2022-09-09,  Pulp Fiction, Crime, 0, 10
+2022-09-10,  The Shining, Crime, 0, 10
+2022-09-11,  The Departed, Crime, 0, 10
+2022-09-12,  Heat, Crime, 0, 10
+2022-09-13,  Se7en, Crime, 0, 10
+2022-09-14,  The Silence of the Lambs, Crime, 0, 10
+2022-09-15,  Scarface, Crime, 0, 10
+2022-09-16,  No Country for Old Men, Crime, 0, 10
+2022-09-17,  The Untouchables, Crime, 0, 10
+2022-09-18,  The Shawshank Redemption, Crime, 0, 10
+2022-09-19,  Fight Club, Crime, 0, 10
+2022-09-20,  American Psycho, Crime, 0, 10
+2022-09-21,  Casino, Crime, 0, 10
+2022-09-22,  The Witch, Crime, 0, 10
+2022-09-23,  A Clockwork Orange, Crime, 0, 10
+2022-09-24,  Reservoir Dogs, Crime, 0, 10
+2022-09-25,  The French Connection, Crime, 0, 10
+2022-09-26,  L.A. Confidential, Crime, 0, 10
+2022-09-27,  The Town, Crime, 0, 10
+2022-09-28,  Mystic River, Crime, 0, 10
+2022-09-29,  Sin City, Crime, 0, 10
+2022-09-30,  Training Day, Crime, 0, 10
+2022-10-01,  Gone Girl, Crime, 0, 10
+2022-10-02,  The Girl with the Dragon Tattoo, Crime, 0, 10
+2022-10-03,  Indiana Jones: Raiders of the Lost Ark, Adventure, 0, 11
+2022-10-04,  The Lord of the Rings: The Fellowship of the Ring, Adventure, 0, 11
+2022-10-05,  Goodfellas, Adventure, 0, 11
+2022-10-06,  Avatar, Adventure, 0, 11
+2022-10-07,  The Revenant, Adventure, 0, 11
+2022-10-08,  The Jungle Book, Adventure, 0, 11
+2022-10-09,  Pirates of the Caribbean: The Curse of the Black Pearl, Adventure, 0, 11
+2022-10-10,  The Princess Bride, Adventure, 0, 11
+2022-10-11,  Mad Max: Fury Road, Adventure, 0, 11
+2022-10-12,  The Odyssey, Adventure, 0, 11
+2022-10-13,  Indiana Jones and the Last Crusade, Adventure, 0, 11
+2022-10-14,  The Lord of the Rings: The Two Towers, Adventure, 0, 11
+2022-10-15,  The Lord of the Rings: The Return of the King, Adventure, 0, 11
+2022-10-16,  The Hobbit: An Unexpected Journey, Adventure, 0, 11
+2022-10-17,  The Dark Knight, Adventure, 0, 11
+2022-10-18,  The Hobbit: The Battle of the Five Armies, Adventure, 0, 11
+2022-10-19,  The African Queen, Adventure, 0, 11
+2022-10-20,  Lawrence of Arabia, Adventure, 0, 11
+2022-10-21,  The Treasure of the Sierra Madre, Adventure, 0, 11
+2022-10-22,  The Adventures of Tintin, Adventure, 0, 11
+2022-10-23,  National Treasure, Adventure, 0, 11
+2022-10-24,  The Mummy, Adventure, 0, 11
+2022-10-25,  King Kong, Adventure, 0, 11
+2022-10-26,  The Secret Life of Walter Mitty, Adventure, 0, 11
+2022-10-27,  The Great Escape, Adventure, 0, 11
+2022-10-28,  The Sound of Music, Musical, 0, 12
+2022-10-29,  Les Misérables, Musical, 0, 12
+2022-10-30,  Jurassic Park, Musical, 0, 12
+2022-10-31,  Grease, Musical, 0, 12
+2022-11-01,  West Side Story, Musical, 0, 12
+2022-11-02,  Chicago, Musical, 0, 12
+2022-11-03,  The Lion King, Musical, 0, 12
+2022-11-04,  Moulin Rouge!, Musical, 0, 12
+2022-11-05,  Singin' in the Rain, Musical, 0, 12
+2022-11-06,  Hamilton, Musical, 0, 12
+2022-11-07,  Rent, Musical, 0, 12
+2022-11-08,  The Phantom of the Opera, Musical, 0, 12
+2022-11-09,  Mary Poppins, Musical, 0, 12
+2022-11-10,  The Rocky Horror Picture Show, Musical, 0, 12
+2022-11-11,  The Hobbit: The Desolation of Smaug, Musical, 0, 12
+2022-11-12,  My Fair Lady, Musical, 0, 12
+2022-11-13,  Evita, Musical, 0, 12
+2022-11-14,  Into the Woods, Musical, 0, 12
+2022-11-15,  The Greatest Showman, Musical, 0, 12
+2022-11-16,  A Star is Born, Musical, 0, 12
+2022-11-17,  Hairspray, Musical, 0, 12
+2022-11-18,  Sweeney Todd: The Demon Barber of Fleet Street, Musical, 0, 12
+2022-11-19,  Cabaret, Musical, 0, 12
+2022-11-20,  Beauty and the Beast, Musical, 0, 12
+2022-11-21,  Annie, Musical, 0, 12
+2022-11-22,  March of the Penguins, Documentary, 0, 13
+2022-11-23,  Bowling for Columbine, Documentary, 0, 13
+2022-11-24,  La La Land, Documentary, 0, 13
+2022-11-25,  Man on Wire, Documentary, 0, 13
+2022-11-26,  The Act of Killing, Documentary, 0, 13
+2022-11-27,  Jiro Dreams of Sushi, Documentary, 0, 13
+2022-11-28,  Supersize Me, Documentary, 0, 13
+2022-11-29,  Won't You Be My Neighbor?, Documentary, 0, 13
+2022-11-30,  Citizenfour, Documentary, 0, 13
+2022-12-01,  An Inconvenient Truth, Documentary, 0, 13
+2022-12-02,  Exit Through the Gift Shop, Documentary, 0, 13
+2022-12-03,  13th, Documentary, 0, 13
+2022-12-04,  The Cove, Documentary, 0, 13
+2022-12-05,  Amy, Documentary, 0, 13
+2022-12-06,  Fiddler on the Roof, Documentary, 0, 13
+2022-12-07,  Searching for Sugar Man, Documentary, 0, 13
+2022-12-08,  O.J.: Made in America, Documentary, 0, 13
+2022-12-09,  RBG, Documentary, 0, 13
+2022-12-10,  The Fog of War, Documentary, 0, 13
+2022-12-11,  Icarus, Documentary, 0, 13
+2022-12-12,  Three Identical Strangers, Documentary, 0, 13
+2022-12-13,  For Sama, Documentary, 0, 13
+2022-12-14,  American Factory, Documentary, 0, 13
+2022-12-15,  The White Helmets, Documentary, 0, 13
+2022-12-16,  Fahrenheit 9/11, Documentary, 0, 13
